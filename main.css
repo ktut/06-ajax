@@ -1,0 +1,16 @@
+body {
+    padding: 25px;
+}
+
+.js-gifs-appear-here {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.js-gifs-appear-here > div {
+    margin-right: 10px;
+}
+
+.js-add-buttons {
+    
+}
